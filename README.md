@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  Hello, my name is Zouheir Nakouzi, current student in Beirut Arab University.
+  Hello, my name is Zouheir Nakouzi, current student at Beirut Arab University.
   <br>
   <br>
   💻 I love everything about technology, and especially computers.
