@@ -17,11 +17,8 @@
 ![snake gif](https://github.com/ZouheirN/ZouheirN/blob/output/github-contribution-grid-snake.svg)
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZouheirN&theme=github_dark&hide_border=true)
-
 <p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ZouheirN&theme=github_dark&hide_border=true"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=ZouheirN&theme=github_dark&hide_border=true"/></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZouheirN&theme=github-dark-blue&hide_border=true"/></a>
 </p>
 
