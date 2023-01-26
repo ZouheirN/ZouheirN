@@ -1,9 +1,15 @@
-<p align="center">
-  ### Hi there 👋
-</p>
+### Hi there 👋
 
-I’m currently studying Computer Engineering in Beirut Arab University.
-I will post any semester/personal projects I do here for other people to see.
+<br>
+<p align="center">
+  Hello, my name is Zouheir Nakouzi, current student in Beirut Arab University.
+  <br>
+  💻 I love everything about technology, and especially computers.
+  <br>
+  💼 I would love to work in IT or Software Development.
+  <br>
+  💾 I will post any semester/personal projects I do here for other people to see.
+</p>
 
 ![snake gif](https://github.com/ZouheirN/ZouheirN/blob/output/github-contribution-grid-snake.svg)
 
