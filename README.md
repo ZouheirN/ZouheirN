@@ -21,6 +21,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZouheirN&theme=github_dark&hide_border=true)
 
 <p align="center">  
+  <a href="https://github-readme-stats.vercel.app/api?username=ZouheirN&theme=github_dark&hide_border=true"/></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZouheirN&theme=github-dark-blue&hide_border=true"/></a>
 </p>
 
