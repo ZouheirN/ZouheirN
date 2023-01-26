@@ -23,7 +23,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=ZouheirN&theme=github_dark&hide_border=true"/></a>
     
     <a href="https://git.io/streak-stats"><img align="right" width=390 src="https://streak-stats.demolab.com?user=ZouheirN&theme=github-dark-blue&hide_border=true"/></a>
-    </div>
+  </div>
 </p>
 
 
