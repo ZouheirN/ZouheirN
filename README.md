@@ -14,8 +14,11 @@
   💾 I will post any semester/personal projects I do here for other people to see.
 </p>
 
+<hr>
+
 ![snake gif](https://github.com/ZouheirN/ZouheirN/blob/output/github-contribution-grid-snake.svg)
 
+<hr>
 
 <p align=center>  
   <div align=center>
