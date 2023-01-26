@@ -3,6 +3,7 @@
 </h1>
 
 <br>
+
 <p align="center">
   Hello, my name is Zouheir Nakouzi, current student in Beirut Arab University.
   <br>
@@ -15,6 +16,11 @@
 </p>
 
 <hr>
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+</div>
+
+<br>
 
 ![snake gif](https://github.com/ZouheirN/ZouheirN/blob/output/github-contribution-grid-snake.svg)
 
