@@ -39,6 +39,6 @@
 
 <br><br><br><br><br><br><br>
 
-<h2 align="center">
+<h3 align="center">
   <a href="https://github.com/ZouheirN?tab=repositories" title="Show Repositories">📄 My Repositories 📄</a>
-</h2>
+</h3>
