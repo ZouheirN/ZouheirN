@@ -43,6 +43,12 @@
 
 <br><br><br><br><br><br><br>
 
+<p align=center>  
+  <div align=center>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZouheirN&hide_border=true&theme=github_dark&langs_count=10"/></a>
+  </div>
+</p>
+
 <h3 align="center">
   <a href="https://github.com/ZouheirN?tab=repositories" title="Show Repositories">📄 My Repositories 📄</a>
 </h3>
