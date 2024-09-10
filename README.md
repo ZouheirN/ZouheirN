@@ -5,14 +5,14 @@
 <br>
 
 <p align="center">
-  Hello, my name is Zouheir Nakouzi, current student at Beirut Arab University.
+  Hello, my name is Zouheir Nakouzi, a Computer Engineering graduate.
   <br>
   <br>
   💻 I love everything about technology, and especially computers.
   <br>
   💼 I would love to work in IT or Software Development.
   <br>
-  💾 I will post any semester/personal projects I do here for other people to see.
+  💾 I will post any personal projects I do here for other people to see.
 </p>
 
 <div align="center"> 
