@@ -5,21 +5,13 @@
 <br>
 
 <p align="center">
-  Hello, my name is Zouheir Nakouzi, a Computer Engineering graduate.
+  Hello, my name is Zouheir Nakouzi, a Computer Engineer.
   <br>
   <br>
   💻 I love everything about technology, and especially computers.
   <br>
-  💼 I would love to work in IT or Software Development.
-  <br>
-  💾 I will post any personal projects I do here for other people to see.
+  💾 Check out my repositories for some of my projects.
 </p>
-
-<div align="center"> 
-  <a href = "mailto:zouheir2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/zouheirn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
 
 <hr>
 <br>
